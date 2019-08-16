@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9713484077741154197f9e53e16d88a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveLocationPrefab: {fileID: 1555274435638532, guid: 67e6eaed503cd4dd4866949b815904bc,
+      type: 3}
+  - tileHighlightPrefab: {fileID: 1333511979136996, guid: 569282cb440c344cba96c1f450204f53,
+      type: 3}
+  - attackLocationPrefab: {fileID: 1341371675672656, guid: 102376e3c54374e8f95a9dc402188a3f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
